@@ -16,6 +16,7 @@ The goal of this project is to develop a YOLO-based object detection model capab
   - **Tables:** 1541
 - **Labeling Tool:** LabelMe
 - **Annotation Format:** YOLO (bounding box coordinates and class labels)
+- **Download Dataset:** [Kaggle - Figures and Tables Dataset](https://www.kaggle.com/datasets/mennaebrahim0/figures-and-tables/data)
 
 ## Requirements
 - Python 3.8+
