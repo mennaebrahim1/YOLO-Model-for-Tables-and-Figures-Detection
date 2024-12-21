@@ -1,0 +1,7 @@
+path: C:\Users\me513\Downloads\yolo  # Dataset root directory
+train: train/images  # Train images (relative to path)
+val: valid/images      # Validation images (relative to path)
+
+names:
+    1: Figure
+    0: Table # Use a list for class names
